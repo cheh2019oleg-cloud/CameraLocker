@@ -1,0 +1,4 @@
+bcrypt
+numpy==2.3.4
+opencv-python
+pyinstaller>=6.0
